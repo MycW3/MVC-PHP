@@ -1,0 +1,5 @@
+#Managed by Composer 
+/vendor/
+
+# Secretos
+app/env.php
